@@ -1,9 +1,27 @@
+@font-face {
+    font-family: STITCHLAND1;
+    src: url(/STITCHLAND1.otf);
+  }
+  
+  div.fonttest {
+    font-family: STITCHLAND1;
+  }
 
+h1{
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    text-align: center;
+
+}
 
 div.section1{
-    background-color: rosybrown;
-    width: 500px;
-    height: 500 px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
     
 }
 
@@ -21,6 +39,9 @@ h1{
 
 .PARA{
     color: red;
+    font-family: STITCHLAND1;
+    font-size: 50px;
+    text-align: center;
 }
 
 div.redlog{
