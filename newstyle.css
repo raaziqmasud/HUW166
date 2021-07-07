@@ -7,6 +7,12 @@
     font-family: STITCHLAND1;
   }
 
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 h1{
     margin: auto;
     width: 60%;
